@@ -39,8 +39,8 @@ This project provides a comprehensive analysis of vehicle registration data with
 
 1. **Clone the repository**
    ```bash
-   git clone <this-repo-url>
-   cd FinanciallyFree
+   git clone https://github.com/0xfarben/FinanciallyFree-Vehicle-Dashboard
+   cd FinanciallyFree-Vehicle-Dashboard
    ```
 
 2. **Install dependencies**
@@ -71,7 +71,7 @@ This project provides a comprehensive analysis of vehicle registration data with
 ## 📁 Project Structure
 
 ```
-FinanciallyFree/
+FinanciallyFree-Vehicle-Dashboard/
 ├── data/
 │   ├── yearly/                        # Yearly aggregated data
 │   │   ├── 2021-2025_MAKER.csv       # Raw manufacturer data
